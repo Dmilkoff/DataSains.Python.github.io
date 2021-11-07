@@ -4,7 +4,7 @@
 
 Beginner  developer. I am studying .
 
-Skills: Python/Data Sains/ JS / HTML / CSS
+Skills: Python/Data Sains/SQL/JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
