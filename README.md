@@ -6,7 +6,9 @@ Beginner  developer. I am studying .
 
 Skills: Python/Data Sains/Linux/SQL/JS/HTML/CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 Python for extracting and processing data.
+Database design and implementation.
+Data analysis in practice.. 
 
 
 
