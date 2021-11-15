@@ -6,7 +6,7 @@ https://platform.stratascratch.com/coding/10300-premium-vs-freemium.
 
 Skills: Python/Data Sains/Linux/SQL/JS/HTML/CSS
 
-[<img alin='left' alt='Stratascratch' width='52px' src='https://www.stratascratch.com/static/logo-f753ed5261163679de68dc54ce84a9c5.png'/>] [Stratascratch]
+[<img alin='left' alt='Stratascratch' width='100px' src='https://www.stratascratch.com/static/logo-f753ed5261163679de68dc54ce84a9c5.png'/>] [Stratascratch]
 
 - *Python for extracting and processing data*.
 - *Database design and implementation*.
